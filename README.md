@@ -1,5 +1,5 @@
-<p align="center">
+<div align="center">
 
 # Hi, I'm Nate! :wave:
 
-</p>
+</div>
