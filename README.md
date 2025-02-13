@@ -34,14 +34,14 @@ Personally; Im a little bit more...
 
 </div>
 
-What are we ALL doing here? Collaborating together and stealing each others code ... with the best intentions of course!
+What are we ALL doing here? Stealing each others code of course ...
 
 >[!TIP]
 > Give credit where credits due.
 > 
 > Dont Plagiarise - Dont be that person...
 
-I'm here to fuel my interests and be creative! :paintbrush:
+I'm here to fuel my interests, be creative and collaborate! :clap:
 
 Ever get that feeling that no matter how much you experience something, it just feels the same? Yeah, same... 
 
