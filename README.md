@@ -34,7 +34,7 @@ Personally; Im a little bit more...
 
 </div>
 
-What are we ALL doing here? Stealing each others code of course ...
+What are we ALL doing here? Stealing each others code of course(!)
 
 >[!TIP]
 > Give credit where credits due.
