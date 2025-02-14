@@ -49,4 +49,3 @@ This is why being creative and trying to methods and techniques is so important;
 
 > [!NOTE]
 > I am by no means a philosopher. Just a little passionate...
-
