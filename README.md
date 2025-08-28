@@ -45,7 +45,7 @@ I'm here to fuel my interests, be creative and collaborate! :clap:
 
 Ever get that feeling that no matter how much you experience something, it just feels the same? Yeah, same... 
 
-This is why being creative and trying to methods and techniques is so important; push the boundaries. Don't just think outside the box; Take the box apart and make something else.
+This is why being creative and trying new methods and techniques is so important; push the boundaries. Don't just think outside the box; Take the box apart and make something else.
 
 > [!NOTE]
 > I am by no means a philosopher. Just a little passionate...
