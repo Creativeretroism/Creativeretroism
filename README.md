@@ -1,5 +1,4 @@
-![Alt text](https://github.com/CreativeRetroism/Laptop_Banner.gif)
-
+![Alt text](https://github.com/Creativeretroism/Laptop_Banner.gif)
 
 <div align="center">
 
