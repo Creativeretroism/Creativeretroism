@@ -1,3 +1,6 @@
+![alt text](https://github.com/Mario_Coding.gif "Logo Title Text 1")
+
+
 <div align="center">
 
 # Hi, I'm Nate! :wave:
