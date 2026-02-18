@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Creativeretroism/Laptop_Banner.gif)
+![Alt text](https://raw.githubusercontent.com/Creativeretroism/Creativeretroism/d3ed7dab89e6fb583ebc378729bad6be2036bad8/Mario_Coding.gif)
 
 <div align="center">
 
