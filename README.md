@@ -1,4 +1,4 @@
-![alt text](https://github.com/Mario_Coding.gif "Logo Title Text 1")
+![alt text](https://github.com/CreativeRetroism/Mario_Coding.gif "Mario Coding")
 
 
 <div align="center">
