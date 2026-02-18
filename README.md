@@ -8,7 +8,7 @@ Professionally, I currently work in the Healthcare industry :uk: ***(NHS)*** :ho
 
 Dealing with:
 
-* County-wide software deployments
+* County-wide software deployments (on-prem SCCM + Intune)
 
 * Estate remediation (Security, Software, Hardware)
 
